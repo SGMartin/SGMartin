@@ -1,3 +1,4 @@
+![bioinformatics](https://omgenomics.com/assets/bioinformatics-data-science-venn-diagrams.png)
 ## Hello there! 👋
 This is Santiago's GitHub. I'm a bioinformatician and data analyst with a strong
 focus on computational pharmacogenomics and personalized precision oncology. 
