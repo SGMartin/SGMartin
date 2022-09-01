@@ -9,6 +9,7 @@ focus on computational pharmacogenomics and personalized precision oncology.
 
 ## About me
 - **Working as**: predoctoral research assistant, Bioinformatics Unit, CNIO.
+- **Research interests**: precision oncology, personalized medicine. Genomics' based drug prioritization.
 - **Education**: Degree in medicine, MSc in bioinformatics
 - **Location**: Spain
 - **ORCID**: 0000-0002-4540-9446
