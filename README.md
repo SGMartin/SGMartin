@@ -8,10 +8,10 @@ focus on computational pharmacogenomics and personalized precision oncology.
 - [x] **Life sciences**
 
 ## About me
-- Working as: predoctoral research assistant, Bioinformatics Unit, CNIO.
-- Education: Degree in medicine, MSc in bioinformatics
-- Location: Spain
-- ORCID: 0000-0002-4540-9446
+- **Working as**: predoctoral research assistant, Bioinformatics Unit, CNIO.
+- **Education**: Degree in medicine, MSc in bioinformatics
+- **Location**: Spain
+- **ORCID**: 0000-0002-4540-9446
 
 ## Languages I know
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
