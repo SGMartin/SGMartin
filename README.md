@@ -7,7 +7,7 @@ focus on computational pharmacogenomics and personalized precision oncology.
 - [x] **Life sciences**
 
 ## About me
-- **Working as**: Bioinformatics engineer@Gustave Roussy / Freelancer at Azura Biosciences
+- **Working as**: Bioinformatics engineer@Gustave Roussy.
 - **Research interests**: precision oncology, personalized medicine. Genomics' based drug prioritization.
 - **Education**: Degree in medicine, MSc in bioinformatics
 - **Location**: Paris, France
