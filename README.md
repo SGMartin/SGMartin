@@ -7,10 +7,10 @@ focus on computational pharmacogenomics and personalized precision oncology.
 - [x] **Life sciences**
 
 ## About me
-- **Working as**: Freelancer bioinformatics consultant.
+- **Working as**: Bioinformatics engineer @ Gustave Roussy
 - **Research interests**: precision oncology, personalized medicine. Genomics' based drug prioritization.
 - **Education**: Degree in medicine, MSc in bioinformatics
-- **Location**: Spain
+- **Location**: Paris, France
 - **ORCID**: 0000-0002-4540-9446
 
 ## Languages I know
