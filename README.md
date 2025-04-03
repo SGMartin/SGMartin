@@ -1,6 +1,7 @@
 ## Hello there! 👋
 This is Santiago's GitHub. I'm a bioinformatician and data scientist with a strong
-focus on computational pharmacogenomics and personalized precision oncology. 
+focus on computational pharmacogenomics and personalized precision oncology. I also develop
+robust NGS pipelines for clinical research.
 
 - [x] **Data science**
 - [x] **Software development**
