@@ -8,7 +8,7 @@ robust NGS pipelines for clinical research.
 - [x] **Life sciences**
 
 ## About me
-- **Working as**: Bioinformatics engineer@Gustave Roussy.
+- **Working as**: Bioinformatics engineer@CDB/Gustave Roussy.
 - **Research interests**: precision oncology, personalized medicine. Genomics' based drug prioritization.
 - **Education**: Degree in medicine, MSc in bioinformatics
 - **Location**: Paris, France
