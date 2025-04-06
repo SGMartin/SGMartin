@@ -3,15 +3,10 @@ This is Santiago's GitHub. I'm a bioinformatician and data scientist with a stro
 focus on computational pharmacogenomics and personalized precision oncology. I also develop
 robust NGS pipelines for clinical research.
 
-- [x] **Data science**
-- [x] **Software development**
-- [x] **Life sciences**
-
 ## About me
-- **Working as**: Bioinformatics engineer@CDB/Gustave Roussy.
-- **Research interests**: precision oncology, personalized medicine. Genomics' based drug prioritization.
+* ![spain_flag](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/es.png)-![france flag](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/fr.png) Born in Spain, living in France.
+* **Working as**: Bioinformatics engineer@CDB/Gustave Roussy.
 - **Education**: Degree in medicine, MSc in bioinformatics
-- **Location**: Paris, France
 - **ORCID**: 0000-0002-4540-9446
 
 ## Languages I know
