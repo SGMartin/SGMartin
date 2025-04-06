@@ -2,6 +2,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sgmartin94@gmail.com)](mailto:sgmartin94@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sgm94/)](https://www.linkedin.com/in/sgm94/)
 
+![Metrics](/github-metrics.svg)
+
 This is Santiago's GitHub. I'm a bioinformatician and data scientist with a strong
 focus on computational pharmacogenomics and personalized precision oncology. I also develop
 robust NGS pipelines for clinical research.
