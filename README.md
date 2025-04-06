@@ -9,7 +9,7 @@ focus on computational pharmacogenomics and personalized precision oncology. I a
 robust NGS pipelines for clinical research.
 
 ## About me
-- :es: - :fr:  Born in Spain, living in France
+- :es: - :fr:  Born in **Spain**, living in **France**
 - **Working as**: Bioinformatics engineer@CDB/[Gustave Roussy](https://www.gustaveroussy.fr/). Previously as bioinformatician@[CNIO](https://www.cnio.es/en/)
 - **Education**: Degree in medicine, MSc in bioinformatics
 - **ORCID**: 0000-0002-4540-9446
