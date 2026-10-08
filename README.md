@@ -17,11 +17,12 @@ NGS pipelines for translational oncology (WES, RNA-seq, single-cell, spatial), f
 
 🏛️ **Before:** five years at the [CNIO](https://www.cnio.es/en/) Bioinformatics Unit (multi-omics, single-cell, HPC).
 
-⚙️ **What I enjoy:** making tools faster and sturdier, reproducibility end to end, and squeezing GPUs.
+⚙️ **What I enjoy:** technology, infrastructure and programming. The engineering decisions from the
+bottom up, building the thing rather than just running it, and putting all of it to work for the science.
 
 🎮 **Off the clock:** I've been coding since I was 12. These days that means
 reverse-engineering old game servers, forum bots and the odd Advent of Code.
 
 ---
 
-**Stack:** Python · R · Snakemake · Nextflow · Singularity · Docker · GitHub Actions · HPC · CUDA · SQL · AWS
+**Stack:** Python · R · Snakemake · Nextflow · Singularity · Docker · GitHub Actions · HPC · SQL · AWS
