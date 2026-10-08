@@ -1,46 +1,18 @@
-## Hello there! 👋
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sgmartin94@gmail.com)](mailto:sgmartin94@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sgm94/)](https://www.linkedin.com/in/sgm94/)
+## Hi, I'm Santiago 👋
 
-![Metrics](/github-metrics.svg)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sgm94/)
+[![ORCID](https://img.shields.io/badge/-ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-4540-9446)
+[![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:sgmartin94@gmail.com)
 
-This is Santiago's GitHub. I'm a bioinformatician and data scientist with a strong
-focus on computational pharmacogenomics and personalized precision oncology. I also develop
-robust NGS pipelines for clinical research.
+Medical degree turned bioinformatics engineer. I work at the layer between
+clinicians, biologists and the compute: turning a scientific question into
+pipelines, infrastructure and results that people can actually use.
 
-## About me
-- :es: - :fr:  Born in **Spain**, living in **France**
-- **Working as**: Bioinformatics engineer@CDB/[Gustave Roussy](https://www.gustaveroussy.fr/). Previously as bioinformatician@[CNIO](https://www.cnio.es/en/)
-- **Education**: Degree in medicine, MSc in bioinformatics
-- **ORCID**: 0000-0002-4540-9446
+🧬 **Now:** bioinformatics engineer at [Gustave Roussy](https://www.gustaveroussy.fr/), Paris.
+NGS pipelines for translational oncology (WES, RNA-seq, single-cell, spatial), from raw data to cBioPortal.<br>
+🏛️ **Before:** five years at the [CNIO](https://www.cnio.es/en/) Bioinformatics Unit (multi-omics, single-cell, HPC).<br>
+⚙️ **What I enjoy:** making tools faster and sturdier, reproducibility end to end, and squeezing GPUs.<br>
+🎮 **Off the clock:** I've been coding since I was 12. These days that means
+reverse-engineering old game servers, forum bots and the odd Advent of Code.
 
-## Tech stack!
-
-**General purpose languages**
-
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" alt="c#"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png" alt="DotNET"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" alt="Jupyter Notebook"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" alt="Scikit Learn"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" alt="R"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png" alt="LaTeX"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
-
-**Workflow managers**
-
-<code><img height="32" src="https://avatars.githubusercontent.com/u/33450111?s=200&v=4" alt="snakemake"/></code>
-<code><img height="32" src="https://avatars.githubusercontent.com/u/6698688?s=280&v=4" alt="NextFlow"/></code>
-
-
-**Code, dependency management and reproducibility**
-
-<code><img height="32" src="https://cdn.worldvectorlogo.com/logos/travis-ci.svg" alt="Travis CI"/></code>
-<code><img height="32" src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" alt="GitHub"/></code>
-<code><img height="32" src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" alt="GitLab"/></code>
-<code><img height="32" src="https://avatars.githubusercontent.com/u/12724356?s=48&v=4" alt="Gitea"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker"/></code>
-<code><img height="32" src="https://img.utdstc.com/icon/c2f/773/c2f7733df6524599afea694769062bc12d389fb4178f8be7b644c5e802fbbc17:200" alt="VirtualBox"/></code>
-
+**Stack:** Python · R · Snakemake · Nextflow · Singularity · Docker · GitHub Actions · HPC · CUDA · SQL · AWS
