@@ -11,7 +11,7 @@ pipelines, infrastructure and results that people can actually use.
 ---
 
 🧬 **Now:** bioinformatics engineer at [Gustave Roussy](https://www.gustaveroussy.fr/), Paris.
-Pipelines and analyses for translational oncology and clinical trials (WES, RNA-seq, single-cell, spatial),
+Pipelines and analyses for translational oncology and research clinical trials (WES, RNA-seq, single-cell, spatial),
 from raw data to the biological question.
 
 🔬 **Lately:** especially into spatial transcriptomics (Xenium) and immuno-oncology.
