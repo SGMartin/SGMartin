@@ -11,14 +11,15 @@ pipelines, infrastructure and results that people can actually use.
 ---
 
 🧬 **Now:** bioinformatics engineer at [Gustave Roussy](https://www.gustaveroussy.fr/), Paris.
-NGS pipelines for translational oncology (WES, RNA-seq, single-cell, spatial), from raw data to cBioPortal.
+Pipelines and analyses for translational oncology and clinical trials (WES, RNA-seq, single-cell, spatial),
+from raw data to the biological question.
 
 🔬 **Lately:** especially into spatial transcriptomics (Xenium) and immuno-oncology.
 
 🏛️ **Before:** five years at the [CNIO](https://www.cnio.es/en/) Bioinformatics Unit (multi-omics, single-cell, HPC).
 
-⚙️ **What I enjoy:** technology, infrastructure and programming. The engineering decisions from the
-bottom up, building the thing rather than just running it, and putting all of it to work for the science.
+⚙️ **What I enjoy:** the mix. Digging into the biology and the analysis, and building what sits underneath:
+technology, infrastructure and programming, with the engineering decisions made from the bottom up.
 
 🎮 **Off the clock:** I've been coding since I was 12. These days that means
 reverse-engineering old game servers, forum bots and the odd Advent of Code.
