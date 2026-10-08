@@ -24,8 +24,7 @@ technology, infrastructure and programming, with the engineering decisions made 
 🎮 **Off the clock:** I've been coding since I was 12. These days that means
 reverse-engineering old game servers, forum bots and the odd Advent of Code.
 
-📄 **Selected work:** [A single-cell atlas linking intratumoral states to therapeutic vulnerabilities across cancers](https://doi.org/10.64898/2026.02.18.706316)
-(bioRxiv, 2026) · [all publications on ORCID](https://orcid.org/0000-0002-4540-9446)
+📄 **Publications:** [see my ORCID](https://orcid.org/0000-0002-4540-9446)
 
 ---
 
